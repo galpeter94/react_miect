@@ -1,0 +1,9 @@
+.paragraph p 
+{
+    max-width: 500px;
+    color: chocolate;
+    font-family: system-ui, apple-system, sans-serif;
+    font-size: 16px;
+    font-weight: 400;;
+}
+
